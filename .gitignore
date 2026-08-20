@@ -1,0 +1,16 @@
+venv/
+.venv/
+env/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.streamlit/secrets.toml
+faiss_index/
+results/*.json
+reports/*.pdf
+!results/.gitkeep
+!reports/.gitkeep
+.DS_Store
+.idea/
+.vscode/
