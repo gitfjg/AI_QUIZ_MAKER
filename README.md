@@ -15,6 +15,9 @@ Transformez n'importe quel support de cours PDF en quiz interactif, corrigé aut
 </div>
 
 ---
+Une vidéo de démonstration du site **AI Quiz Maker** est disponible sur Google Drive :
+
+👉 [Voir la vidéo de démonstration](https://drive.google.com/file/d/1iUmgxBYG0Mg8J5mJyWmScl1cIe6n-C4j/view?usp=sharing)
 
 ## 🎯 À propos
 
